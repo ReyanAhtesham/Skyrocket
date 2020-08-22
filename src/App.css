@@ -1,0 +1,61 @@
+.outer-div{
+  margin:0px;
+  background-image: url("./Images/Alternating-Arrowhead.svg");
+}
+.alpha{
+  width:49vmax;
+}
+.one{
+  font-family:  Arial, sans-serif;
+  font-size:3vmax;
+}
+.diss{
+  margin:0px
+}
+.ooper{
+  margin-top:100px
+}
+.titles{
+  font-family:  Arial, sans-serif;
+  color:rgb(45, 45, 94);
+  font-size: 6vmax;
+  font-weight:bolder;
+}
+.main-title{
+  font-size: 7vmax;
+  display: inline;
+  opacity: 0.7;
+  font-weight: bold;
+}
+.title-sub{
+  font-size: 7vmax;
+  text-decoration: line-through;
+  display: inline;
+}
+.title-div{
+  margin:30px;
+  background-color:rgb(212, 215, 218);
+  padding-top:200px;
+  padding-bottom:200px;
+  margin-bottom: 200px;
+}
+.linkos{
+  cursor:pointer;
+}
+.linkos:hover{
+  opacity: 0.5;
+}
+.barr{
+  padding-top:100px;
+}
+.nav-text{
+ margin-right: 1vmax;
+  font-size: 2vmax;
+}
+.logo-text{
+ font-size: 4vmax;
+ margin-left:1vmax
+}
+img{
+  border-radius: 10px;
+}
